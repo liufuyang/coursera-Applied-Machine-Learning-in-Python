@@ -11,3 +11,8 @@ source $(pwd)/$PYTHON_ENV_NAME/bin/activate # activate the local python environm
 
 pip install jupyter
 pip install scikit-learn
+pip install matplotlib
+pip install pandas
+pip install scipy
+pip install seaborn
+pip install graphviz
